@@ -5,7 +5,8 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Kasey
+ * @author Jose Avila C.I: 31.778.251
+ * @author Kasey Bermudez
  */
 public class opcionG {
 
