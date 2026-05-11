@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author Kasey Bermudez
  */
 public class opcionB {
-    // Tipo de funcion sin retorno ni parametros
+    // Tipo de funcion sin retorno, ni parametros
     public void CalcularCirculo() {
         double radio, perimetro = 0, area = 0; 
         Scanner entrada = new Scanner(System.in); 

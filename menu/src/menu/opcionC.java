@@ -6,6 +6,7 @@ import java.util.Scanner;
  * @author Kasey Bermudez
  */
 public class opcionC {
+    //tipo de funcion con retorno, sin parametros
     public float CalcularLaPotencia() {
         float baseUsuario,exponenteUsuario, resultadoPotencia = 0; 
         Scanner entrada = new Scanner(System.in); 
