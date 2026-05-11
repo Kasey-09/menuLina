@@ -1,21 +1,22 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package menu;
-
 /**
  *
- * @author Kasey
+ *  @author Jose Avila C.I: 31.778.251
+ *  @author Kasey Bermudez
  */
 public class Menu {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Pimera funcion opcion B
+       /**
+        opcionB funcionB = new opcionB(); 
+        funcionB.CalcularCirculo(); 
+        */
+       
+       // Segunda funcion opcion C
+       /**
+       opcionC funcionC = new opcionC(); 
+       float potencia =  funcionC.CalcularLaPotencia(); 
+       System.out.println("El resultado de elevar fue: " + potencia);
+       */
     }
-    
 }
