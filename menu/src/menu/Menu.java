@@ -5,14 +5,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-
 /**
  *
- *  @author Jose Avila C.I: 31.778.251
- *  @author Kasey Bermudez
+ * @author Jose Avila C.I: 31.778.251
+ * @author Kasey Bermudez
  */
 public class Menu {
-
 
     public static void main(String[] args) throws IOException {
 
@@ -52,34 +50,28 @@ public class Menu {
                 }
 
                 break;
-                
-                
+
             case "B":
-                
+
                 System.out.println("-----Programa para Leer el radio de un círculo, y calcule su perímetro y su área-----");
-                
+
                 opcionB.CalcularCirculo();
-                
+
                 break;
-                
-                
+
             case "C":
-                
+
                 System.out.println("-----Programa para Leer la base y el exponente y calcular la potencia-----");
-                
+
                 float resultado = opcionC.CalcularLaPotencia();
                 System.out.println(resultado);
-                
+
                 break;
 
             default:
                 System.out.println("Opcion inválida, verifique e intente de nuevo.");
-                
-                
 
         }
     }
-
-
 
 }
