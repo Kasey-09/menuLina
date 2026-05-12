@@ -14,6 +14,7 @@ public class opcionG {
     }
 
     //Leer los radianes de un triángulo y calcular el seno y el coseno
+    // Tipo de funcion sin retorno, pero con parámetros.
     public static void LeerRadianes(double radianes) {
 
         try {
