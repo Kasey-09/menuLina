@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  *
  * @author Jose Avila C.I: 31.778.251
- * @author Kasey Bermudez
+ * @author Kasey Bermudez C.l: 32078712
  */
 public class opcionB {
     // Tipo de funcion sin retorno, ni parametros
